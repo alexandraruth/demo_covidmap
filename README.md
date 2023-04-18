@@ -1,5 +1,4 @@
-# DEMO: Using the Socrata developer platform to map county-level COVID data using APIs
-# U.S. Department of Labor - API Community of Practice
+# DEMO: Using the Socrata developer platform to map county-level COVID data using federal dataset APIs
 
 This presentation demonstrates use of the Socrata Developer Platform and the U.S. Census API for mapping COVID-19 risk at skilled nursing facilities in the U.S. based on county-level COVID transmission nearby.
 
